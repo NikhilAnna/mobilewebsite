@@ -1,0 +1,31 @@
+
+
+.first {
+	background-image: url('https://tse2.mm.bing.net/th?id=OIP.ZwU1C89rhAHUIZxa5FJtMgHaEK&pid=Api&P=0');
+	background-size: cover;
+	height: 150vh;
+	color: white;
+}
+.layout {
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 10px;
+}
+.brandshead {
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+
+}
+.brandspara {
+	color: darkgrey;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
+.brandimg {
+	width: 100px;
+	height: 100px;
+
+}
